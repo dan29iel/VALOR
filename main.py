@@ -1,4 +1,4 @@
-valor = int(input("Introdueix un numero: "))
+valor = int(input("Introdueix un nÚmero: "))
 i = 0
 n = 0
 while n+i < valor :
